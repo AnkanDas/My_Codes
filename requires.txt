@@ -1,0 +1,4 @@
+numexpr
+pytest
+future
+funcy
